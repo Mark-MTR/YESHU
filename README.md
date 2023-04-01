@@ -1,6 +1,6 @@
-# Yeshuhao!
+# YESHU!
 
-This repository is used to share some funny videos and images of Yeshuhao.
+This repository is used to share some funny videos and images of YESHU.
 
 This repository ***SHOULD NOT BE FORKED*** although it use MIT License.
 
